@@ -1,0 +1,10 @@
+body {
+	font-size: 15px;
+	letter-spacing: 0.02em;
+	text-align: center;
+}
+main{
+	max-height: 1024px;
+	margin: 50px auto;
+	width: 90%;
+}
